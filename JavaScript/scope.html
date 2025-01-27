@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let globalVar = "Bu bir global değişkendir."
+
+        function myFunction(){
+            let localVar = "Bu bir yerel değişkendir."
+            console.log(localVar)
+        }
+        myFunction()
+        console.log(globalVar)
+
+        if(true){
+            let blockVar = "Bu bir block değişkendir."
+            console.log(blockVar)
+        }
+    </script>
+</body>
+</html>
