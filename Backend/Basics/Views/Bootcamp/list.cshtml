@@ -1,0 +1,23 @@
+@model List<Bootcamp>
+        
+            @foreach (var btc in Model)
+            {
+                @if(btc.isActive){
+
+            <div class="card mb-3" id="bootcamp_@btc.Id">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="~/img/@btc.Image" style="width: 320px;" class="img-fluid rounded-start" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <a asp-controller="Bootcamp" asp-action="Details" asp-route-id="@btc.Id">
+                                <h5 class="card-title">@btc.Title</h5>
+                            </a>
+                        <p class="card-text">@btc.Description</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                }
+            }
