@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\Beginner-FullStack-Bootcamp\\Backend\\efcoreApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\efcoreApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\efcoreApp.bundle.scp.css"
+      "PackagePath": "staticwebassets\\efcoreApp.2i34s880o5.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\Beginner-FullStack-Bootcamp\\Backend\\efcoreApp\\wwwroot\\css\\site.css",
@@ -255,6 +255,10 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.efcoreApp.props",
       "PackagePath": "buildTransitive\\efcoreApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.efcoreApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.efcoreApp.Microsoft.AspNetCore.StaticWebAssets.props",

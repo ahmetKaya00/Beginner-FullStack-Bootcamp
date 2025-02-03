@@ -126,3 +126,6 @@ C:\Users\Kaya3\Documents\GitHub\Beginner-FullStack-Bootcamp\Backend\efcoreApp\ob
 C:\Users\Kaya3\Documents\GitHub\Beginner-FullStack-Bootcamp\Backend\efcoreApp\obj\Debug\net8.0\efcoreApp.pdb
 C:\Users\Kaya3\Documents\GitHub\Beginner-FullStack-Bootcamp\Backend\efcoreApp\obj\Debug\net8.0\efcoreApp.genruntimeconfig.cache
 C:\Users\Kaya3\Documents\GitHub\Beginner-FullStack-Bootcamp\Backend\efcoreApp\obj\Debug\net8.0\ref\efcoreApp.dll
+C:\Users\Kaya3\Documents\GitHub\Beginner-FullStack-Bootcamp\Backend\efcoreApp\bin\Debug\net8.0\efcoreApp.staticwebassets.endpoints.json
+C:\Users\Kaya3\Documents\GitHub\Beginner-FullStack-Bootcamp\Backend\efcoreApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Kaya3\Documents\GitHub\Beginner-FullStack-Bootcamp\Backend\efcoreApp\obj\Debug\net8.0\staticwebassets\msbuild.efcoreApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
